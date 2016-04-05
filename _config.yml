@@ -1,0 +1,28 @@
+name: Radio Phonic Audio
+favicon: null
+layout_spectrum: 0.11764778336510062
+typography_spectrum: 0.15203751786611974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.012752709677442908
+  lightness: 0.7636631559580564
+  saturation: 0.7322987585794181
+  rhythmicContrast: 0.30045670620165765
+purpose: []
