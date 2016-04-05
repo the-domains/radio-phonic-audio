@@ -2,6 +2,7 @@ name: Radio Phonic Audio
 favicon: null
 layout_spectrum: 0.11764778336510062
 typography_spectrum: 0.15203751786611974
+title: Radio Phonic Audio
 cta:
   domain: null
   bucket: null
