@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/murderonskulldrive/episode1'
+inLanguage: null
+starred: false
+keywords: []
+description: "The first episode in the startling new mystery serial. Roderick and Nancy are having dinner at Nigel's house. I'm sure nothing will go wrong. No, nothing at all. Should be a pleasant evening, with no murders whatsoever. Yes I'm quite sure of it."
+datePublished: '2016-04-20T21:07:29.507Z'
+dateModified: '2016-04-20T21:00:27.652Z'
 author:
   - name: TheZakW
     url: 'https://soundcloud.com/murderonskulldrive'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: "The first episode in the startling new mystery serial. Roderick and Nancy are having dinner at Nigel's house. I'm sure nothing will go wrong. No, nothing at all. Should be a pleasant evening, with no murders whatsoever. Yes I'm quite sure of it."
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/murderonskulldrive/episode1'
 title: MOSD episode1 by TheZakW
-datePublished: '2016-04-20T21:00:19.026Z'
-dateModified: '2016-04-20T20:57:30.955Z'
 sourcePath: _posts/2016-04-20-mosd-episode1-by-thezakw.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
