@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The first episode in the startling new mystery serial. Roderick and Nancy are having dinner at Nigel's house. I'm sure nothing will go wrong. No, nothing at all. Should be a pleasant evening, with no murders whatsoever. Yes I'm quite sure of it."
-datePublished: '2016-04-20T21:07:29.507Z'
-dateModified: '2016-04-20T21:00:27.652Z'
+datePublished: '2016-04-20T21:13:29.945Z'
+dateModified: '2016-04-20T21:12:26.677Z'
 author:
-  - name: TheZakW
+  - name: ''
     url: 'https://soundcloud.com/murderonskulldrive'
     avatar: {}
 related: []
