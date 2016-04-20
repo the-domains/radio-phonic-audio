@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/murderonskulldrive/episode3'
+inLanguage: null
+starred: false
+keywords: []
+description: "The mystery continues when Roderick goes missing! Can Nancy and Nigel find him before it's too late! What if they don't? Will Nancy remarry? Does she already have her eye on the cute bag boy at the grocery store? Will Roderick haunt her when they go out on dates?"
+datePublished: '2016-04-20T21:11:56.058Z'
+dateModified: '2016-04-20T21:08:03.058Z'
 author:
-  - name: TheZakW
+  - name: ''
     url: 'http://soundcloud.com/murderonskulldrive'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: "The mystery continues when Roderick goes missing! Can Nancy and Nigel find him before it's too late! What if they don't? Will Nancy remarry? Does she already have her eye on the cute bag boy at the grocery store? Will Roderick haunt her when they go out on dates?"
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/murderonskulldrive/episode3'
 title: MOSD episode3 by TheZakW
-datePublished: '2016-04-20T21:03:29.588Z'
-dateModified: '2016-04-20T21:02:35.498Z'
 sourcePath: _posts/2016-04-20-mosd-episode3-by-thezakw.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
