@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/murderonskulldrive/episode2'
+inLanguage: null
+starred: false
+keywords: []
+description: 'The next exciting chapter. Will Roderick, Nancy, and Nigel get out alive? Can they solve the mystery and find the murderer? Will Nancy ever get something to eat? Does anyone actually care? Find out the answers to some if not none of these questions.'
+datePublished: '2016-04-20T21:07:00.109Z'
+dateModified: '2016-04-20T21:06:49.967Z'
 author:
   - name: TheZakW
     url: 'http://soundcloud.com/murderonskulldrive'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'The next exciting chapter. Will Roderick, Nancy, and Nigel get out alive? Can they solve the mystery and find the murderer? Will Nancy ever get something to eat? Does anyone actually care? Find out the answers to some if not none of these questions.'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/murderonskulldrive/episode2'
 title: MOSD episode2 by TheZakW
-datePublished: '2016-04-20T21:03:29.627Z'
-dateModified: '2016-04-20T21:01:42.586Z'
 sourcePath: _posts/2016-04-20-mosd-episode2-by-thezakw.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
